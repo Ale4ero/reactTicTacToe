@@ -93,6 +93,7 @@ function calculateWinner(squares) {
       return squares[a];
     }
   }
+  // random comment 
   return null;
 }
 
